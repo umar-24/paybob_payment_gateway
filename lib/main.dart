@@ -6,9 +6,9 @@ import 'package:paymob_pakistan/paymob_payment.dart';
 void main() {
   // Initialize Paymob with your API details
   PaymobPakistan.instance.initialize(
-    apiKey: "ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiR0Z6Y3lJNklrMWxjbU5vWVc1MElpd2ljSEp2Wm1sc1pWOXdheUk2TVRZeU1UZzNMQ0p1WVcxbElqb2lhVzVwZEdsaGJDSjkuNGRMTEpzaVNmSTl6bC1iS3pyVWRpTE9vYjZZdWJZbkFIMkI3YmVsX0k3Uk9IQm81Q1lMMlVDZ3J1R3l4VHVZbDUxTk5IQ3hnOGpYODNuQmxqaGI2M3c=", // Replace with your actual API key
-    integrationID: 186106,
-    iFrameID: 195331,
+    apiKey: "Your Api Key", // Replace with your actual API key
+    integrationID: 123456,
+    iFrameID: 123456,
     jazzcashIntegrationId: 123456,
     easypaisaIntegrationID: 123456,
   );
